@@ -13,10 +13,7 @@ Python 3.6 or higher
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/simple-quiz-app.git
-Navigate to the project directory:
+
 
 bash
 Copy code
